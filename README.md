@@ -7,3 +7,5 @@ Transfer öğrenme yaklaşımlarından MobileNetV2 %87 doğrulukla en iyi genel 
 
 SONUÇ
 Bu çalışma, sınırlı ve dengesiz görsel veri setlerinde daha kompakt ve optimize edilmiş modellerin (MobileNetV2, SVM) derin ve karmaşık modellere göre daha başarılı olduğunu göstermiştir. Transfer öğrenme uygulamalarında modelin derinliği, parametre sayısı ve veri miktarı dikkatle dengelenmelidir. Bu nedenle, benzer veri yapılarına sahip uygulamalarda sadeleştirilmiş modellerin tercih edilmesi hem hesaplama maliyetlerini azaltacak hem de daha kararlı sonuçlar verecektir.
+
+DataSet: https://www.kaggle.com/code/shreyapmaher/fruit-dataset-image-classification-cnn/input
